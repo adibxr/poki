@@ -25,7 +25,7 @@ To deploy this project run
 
 
 ## 🔗 FOLLOW ME
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://immortaladi.live)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://adi.immortaladi.live)
 [![INSTAGRAM](https://img.shields.io/badge/instagram-0A66C2?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/adi.bxr)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=black)](https://twitter.com/immortaladit)
 
